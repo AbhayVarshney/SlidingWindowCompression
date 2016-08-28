@@ -1,0 +1,41 @@
+Class documentation
+<---- javadoc command: ---->
+/Users/AbhayVarshney/Downloads/BlueJ 3.1.1/BlueJ.app/Contents/Frameworks/jdk.framework/Versions/A/Contents/Home/bin/javadoc
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.7
+-classpath
+/Users/AbhayVarshney/Downloads/BlueJ 3.1.1/BlueJ.app/Contents/Resources/Java/bluejcore.jar:/Users/AbhayVarshney/Downloads/BlueJ 3.1.1/BlueJ.app/Contents/Resources/Java/junit-4.8.2.jar:/Users/AbhayVarshney/Documents/Computer_Science/APCS/Projects/gpdraw.jar:/Users/AbhayVarshney/Documents/Computer_Science/APCS/Projects/Lessons/Lesson A15.4
+-d
+/Users/AbhayVarshney/Documents/Computer_Science/APCS/Projects/Lessons/Lesson A15.4/doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+/Users/AbhayVarshney/Downloads/BlueJ 3.1.1/BlueJ.app/Contents/Resources/Java/bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+/Users/AbhayVarshney/Documents/Computer_Science/APCS/Projects/Lessons/Lesson A15.4/FileReaderDemo.java
+<---- end of javadoc command ---->
+Loading source file /Users/AbhayVarshney/Documents/Computer_Science/APCS/Projects/Lessons/Lesson A15.4/FileReaderDemo.java...
+/Users/AbhayVarshney/Documents/Computer_Science/APCS/Projects/Lessons/Lesson A15.4/FileReaderDemo.java:74: error: ')' expected
+            if(window.contains(origFile.get(pos+1)) { // CHECK IF THE FIRST LETTER AFTER THE WINDOW IS IN THE WINDOW
+                                                   ^
+/Users/AbhayVarshney/Documents/Computer_Science/APCS/Projects/Lessons/Lesson A15.4/FileReaderDemo.java:98: error: illegal start of expression
+        }
+        ^
+/Users/AbhayVarshney/Documents/Computer_Science/APCS/Projects/Lessons/Lesson A15.4/FileReaderDemo.java:98: error: ';' expected
+        }
+         ^
+/Users/AbhayVarshney/Documents/Computer_Science/APCS/Projects/Lessons/Lesson A15.4/FileReaderDemo.java:100: error: reached end of file while parsing
+}
+ ^
+4 errors
