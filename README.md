@@ -19,4 +19,4 @@ you'll be able to see unprintable characters such as (char) 7, the audible bell.
 
 `downloading Hexditor`
 
-## Do NOT Copy code! Only purpose is to display my skills.
+## Do NOT Copy code!
